@@ -8,11 +8,12 @@ Com scripts personalizados, posso transformar tarefas manuais demoradas em proce
 ## Projetos
 
 ### Projeto 1: Organização de Planilhas
-- Descrição: Script que copia e cola planilhas Xlsx em página destinatária.
-- Tecnologias: Python, pandas, pyautogui,unicodedata.
--  Impacto: Economiza horas de trabalho manual ao processar grandes volumes de dados.
--  Código: [bot.automacao1.0.py](projeto1/bot.automacao1.0.py)
--  Exemplo: Veja o arquivo de entrada [produtos_ficticios.xlsx](projeto1/produtos_ficticios.xlsx).
+- **Descrição**: Script que copia e cola planilhas Xlsx em página destinatária.
+- **Tecnologias**: Python, pandas, pyautogui,unicodedata.
+-  **Impacto**: Economiza horas de trabalho manual ao processar grandes volumes de dados.
+-  **Código**: [bot.automacao1.0.py](projeto1/bot.automacao1.0.py)
+-  **Entrada**: [produtos_ficticios.xlsx](projeto1/produtos_ficticios.xlsx).
+-  **Resultado**:[Demonstração Bot.aut1.0](projeto1
 
 *Mais projetos serão adicionados em breve, incluindo web scraping e automação de e-mails!*
 
